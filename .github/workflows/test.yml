@@ -1,0 +1,2 @@
+- name: ServiceNow CI/CD Run ATF Test Suite
+  uses: ServiceNow/sncicd-tests-run@2.0.0
